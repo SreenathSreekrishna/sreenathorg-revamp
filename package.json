@@ -1,7 +1,7 @@
 {
   "name": "sreenathorg",
   "version": "0.1.0",
-  "homepage": "https://sreenathsreekrishna.github.io/sreenathorg-revamp",
+  "homepage": "https://beta.sreenath.org/",
   "private": true,
   "dependencies": {
     "@react-spring/parallax": "^9.5.5",
