@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sreenathorg-revamp/static/css/main.391424d6.css",
+    "main.js": "/sreenathorg-revamp/static/js/main.90b7378b.js",
+    "static/js/787.bddce418.chunk.js": "/sreenathorg-revamp/static/js/787.bddce418.chunk.js",
+    "static/media/img.png": "/sreenathorg-revamp/static/media/img.fc094c86bdb38e9bcf2e.png",
+    "static/media/react.png": "/sreenathorg-revamp/static/media/react.81ed438b18e24116794d.png",
+    "static/media/nodejs.png": "/sreenathorg-revamp/static/media/nodejs.415ec74460cc4f226d06.png",
+    "static/media/css.png": "/sreenathorg-revamp/static/media/css.6163b8e603308338c99f.png",
+    "static/media/c.png": "/sreenathorg-revamp/static/media/c.c0da8156a8d17281c29e.png",
+    "static/media/christmas.png": "/sreenathorg-revamp/static/media/christmas.9afbc7164a63c221cecc.png",
+    "static/media/birthday.png": "/sreenathorg-revamp/static/media/birthday.3d23ba90ac2d5d03a760.png",
+    "static/media/normal.png": "/sreenathorg-revamp/static/media/normal.f9c61c2d289330e12e03.png",
+    "index.html": "/sreenathorg-revamp/index.html",
+    "main.391424d6.css.map": "/sreenathorg-revamp/static/css/main.391424d6.css.map",
+    "main.90b7378b.js.map": "/sreenathorg-revamp/static/js/main.90b7378b.js.map",
+    "787.bddce418.chunk.js.map": "/sreenathorg-revamp/static/js/787.bddce418.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.391424d6.css",
+    "static/js/main.90b7378b.js"
+  ]
+}
