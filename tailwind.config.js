@@ -5,6 +5,7 @@ module.exports = {
   theme: {
     extend: {},
     screens: {
+      'xxxs': '360px',
       'xxs':'450px',
       'xs': '540px',
       'sm': '640px',
@@ -13,7 +14,7 @@ module.exports = {
       'xl': '1280px'
     },
     fontFamily: {
-      main: ['\'Silkscreen\'']
+      main: ['\'Roboto\''],
     }
   },
   plugins: [],

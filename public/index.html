@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="viewport" content="width=device-width" />
     <meta name="theme-color" content="#000000" />
     <meta
       name="description"
@@ -13,30 +13,8 @@
     <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
     <title>React App</title>
   </head>
-  <body>
+  <body style="background:#191919">
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root"></div>
   </body>
-
-  <script>
-    var darkmode = window.matchMedia('(prefers-color-scheme: dark)').matches;
-    var darkstorage = localStorage.getItem('colormode') === 'dark';
-    var lightstorage = localStorage.getItem('colormode') === 'light';
-    if (darkstorage) {
-      document.documentElement.classList = [('dark')];
-      document.body.style.backgroundColor = '#151515';
-    }
-    else if (lightstorage) {
-      document.documentElement.classList = [('light')];
-      document.body.style.backgroundColor = '#eee';
-    }
-    else if (darkmode){
-      localStorage.setItem('colormode', 'dark');
-      document.documentElement.classList = [('dark')];
-      document.body.style.backgroundColor = '#151515';
-    }
-    else {
-      localStorage.setItem('colormode', 'light');
-    }
-  </script>
 </html>
